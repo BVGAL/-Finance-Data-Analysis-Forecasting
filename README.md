@@ -10,13 +10,13 @@ Statistical analysis and diagnostics with statsmodels (ADF test, KPSS, autocorre
 
 Predictive modeling using:
 
-  • Support Vector Regression (SVR)
+  •  Support Vector Regression (SVR)
 
-  • Linear Regression
+  •  Linear Regression
 
-  • Performance evaluation metrics (MAE, RMSE, etc.).
+  •  Performance evaluation metrics (MAE, RMSE, etc.).
 
-  • Sector-based portfolio organization (Tech, Auto, Med).
+  •  Sector-based portfolio organization (Tech, Auto, Med).
 
 📦 Libraries Used
 pandas, numpy, matplotlib, seaborn, yfinance, statsmodels, scikit-learn and more.
